@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+li:hover {
+  color: lightcoral;
+  font-size: 20px;
+}
+.link-header {
+    font-size: 20px;
+    color: black;
+    font-family: monospace;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.link-header:hover{
+    font-size: 25px;
+    color: burlywood;
+    background-image: linear-gradient(lightblue,white);
+}
+h1{
+    background-image: linear-gradient(lightpink,white);
+    margin-top: 40px;
+}
+.cat:hover{
+    border: violet 10px double;
+}
+header{
+    display: flex;
+}
+footer img{
+    background-color: cornflowerblue;
+}
